@@ -1,13 +1,8 @@
 from __future__ import division
 import playsound
 import sys
-import mp3play
-import threading
 import math
-
-from mutagen.mp3 import MP3
 import os
-import threading
 from time import ctime,sleep
 import random
 import time
