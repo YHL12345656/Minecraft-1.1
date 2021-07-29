@@ -6,3 +6,6 @@
 当方块被破环/TNT被引爆是会播放音效（使用了第三方模块playsound）<br>
 修复：<br>
 无形基岩（INV_BEDROCK）的材质被更改，这将修复无形基岩的透视BUG
+
+更改自@ProgWorld2021的Minecraft库
+------
